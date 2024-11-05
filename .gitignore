@@ -1,0 +1,4 @@
+# IDE Ignores
+.idea/
+.vscode/
+.python-version
